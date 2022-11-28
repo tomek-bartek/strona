@@ -1,0 +1,22 @@
+body, nav{
+    font-family: monospace;
+}
+
+.logo{
+    width: 200px;
+
+}
+
+.radius50{
+    border-radius: 50%;
+}
+header{
+ 
+    margin-bottom: 20px;
+}
+h3{
+    margin-bottom:10px;
+}
+#navbarSupportedContent, #nav-button{
+    float:right;
+}
